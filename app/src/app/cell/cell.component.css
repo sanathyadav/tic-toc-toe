@@ -1,0 +1,21 @@
+.cell{
+    width: 100px;
+    height: 100px;
+    box-sizing: border-box;
+    font-size: 5em;
+    font-family: sans-serif;
+    color:darkblue;
+    justify-content: center;
+    align-items: center;
+}
+.cell:hover{
+    background-color: burlywood;
+    cursor: pointer;
+}
+.v1{
+    border-right: 4px solid black;
+
+}
+.h1{
+    border-bottom: 4px solid black;
+}

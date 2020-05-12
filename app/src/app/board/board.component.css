@@ -1,0 +1,18 @@
+.board{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+    color:darkgoldenrod;
+
+}
+.status{
+    color: rgb(211, 64, 64);
+    font-size: 1.4em;
+    font-weight: bolder;
+    
+
+}
+.new-game{
+    width: 100%;
+}
